@@ -212,3 +212,11 @@ FHAL:
   url: https://www.firstbus.co.uk/west-yorkshire/
 BULI:
   url: https://www.buslink.uk/
+MNGN:
+  name: Metro Network - Go North West
+MNHT:
+  name: Metro Network - Huyton Travel
+MNSC:
+  name: Metro Network - Stagecoach Merseyside
+MNWB:
+  name: Metro Network - Warringtons Own Buses
